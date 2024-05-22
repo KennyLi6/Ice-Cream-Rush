@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "platformerPack_character.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 384,
+				"h": 192
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tile_0000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 3,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "tile_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 59,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "tile_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 87,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "tile_0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ff5e5c05b55481eedfd466513be185a4:f7d13616b2472bd3cf868c84568199ee:5bfcaca056df1758c283a5bca0c8d3be$"
+	}
+}
